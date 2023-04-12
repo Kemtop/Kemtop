@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kemtop. 
-Thyristor converter "KEMTOP" use for controls motor in old machine plant.
-Made in Naiden Kirov factory,Bulgaria. 
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
